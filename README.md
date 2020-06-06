@@ -7,9 +7,9 @@
 На тестирование затрачено: 1 ч 30 мин
 
 В результате тестирования приложения KeyValidator выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/LenoreCldg/1.KeyValidator/issues/1
+* https://github.com/LenoreCldg/1.KeyValidator/issues/2
+* https://github.com/LenoreCldg/1.KeyValidator/issues/3
 
 ## Описание процесса тестирования
 
@@ -37,5 +37,6 @@
 5. 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 Тестирование производилось в следующем окружении:
-* WIN 8.1 x64
+* ОС WIN 8.1 x64
+* Git for Windows v2.26.2
 * Java version 11.0.7
