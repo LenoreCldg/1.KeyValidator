@@ -17,7 +17,9 @@
 * Тест-кейс
 * Баг-репорт
 
-В качестве тестовых данных использовались данные по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных для тестирования установки использовался мануал по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md
+
+В качестве тестовых данных для тестирования приложения KeyValidator использовались данные по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 
 Валидные ключи:
 
